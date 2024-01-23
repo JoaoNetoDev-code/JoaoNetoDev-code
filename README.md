@@ -1,7 +1,6 @@
-Olá! pode me chamar de Neto :technologist: :rocket: 
+Olá! pode me chamar de Neto :rocket: 
 ========================================================================================================================================
-
-🎓 Estudante de Desenvolvimento Web | 🚀 A um ano na jornada :smile:
+🌍 Desenvolvedor Full Stack | 🎓 Estudante de Desenvolvimento Web | :four_leaf_clover:A um ano na jornada.
 
 Bem-vindo ao meu repositório! Aqui, compartilho minha jornada de aprendizado no mundo do desenvolvimento web.
 
@@ -9,7 +8,6 @@ Meu sonho? quero ser um desenvolvedor acima da média e meu plano inicial e ser 
 
 E com isso quero dizer front, back e também o mobile.
 
-🌍 Desenvolvedor Full Stack :four_leaf_clover:
 <br/>
 
 ### Skills
