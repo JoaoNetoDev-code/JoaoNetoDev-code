@@ -1,6 +1,6 @@
-Olá! pode me chamar de Neto :rocket: 
+Olá! pode me chamar de Neto 👋
 ========================================================================================================================================
-🌍 Desenvolvedor Full Stack | 🎓 Estudante de Desenvolvimento Web | :four_leaf_clover:A um ano na jornada.
+🌍 Desenvolvedor Full Stack | 🎓 Estudante de Desenvolvimento Web | 🚀 1 Ano de Jornada
 
 Bem-vindo ao meu repositório! Aqui, compartilho minha jornada de aprendizado no mundo do desenvolvimento web.
 
