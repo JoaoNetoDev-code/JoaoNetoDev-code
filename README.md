@@ -1,4 +1,4 @@
-Olá! pode me chamar de Neto 👋
+Olá! eu sou Neto 👋
 ========================================================================================================================================
 🌍 Desenvolvedor Full Stack | 🎓 Estudante de Desenvolvimento Web | 🚀 1 Ano de Jornada
 
