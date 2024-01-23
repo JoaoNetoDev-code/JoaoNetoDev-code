@@ -1,6 +1,12 @@
 Olá! pode me chamar de Neto :technologist: :rocket: 
 ========================================================================================================================================
 
+🎓 Estudante de Desenvolvimento Web | 🚀 A um ano na jornada
+
+Bem-vindo ao meu repositório! Aqui, compartilho minha jornada de aprendizado no mundo do desenvolvimento web.
+
+aprofundando-me em tecnologias essenciais como JavaScript, TypeScript, React, Redux, e metodologias ágeis.
+
 🌍 Desenvolvedor Full Stack :four_leaf_clover:
 <br/>
 
